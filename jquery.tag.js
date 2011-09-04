@@ -3,7 +3,7 @@
  * @name jquery.tag.js
  * @author Kei Funagayama <kei.topaz@gmail.com>
  * @license Dual licensed under the MIT or GPL Version 2 licenses.
- * @version 0.1.0
+ * @version 0.1.2
  */
 (function($) {
     jQuery.fn.extend({
