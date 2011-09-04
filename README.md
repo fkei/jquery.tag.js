@@ -71,6 +71,12 @@ script:
 $.gat = function() { ... }
 
 
+# License
+
+### The same license jquery.
+
+http://jquery.org/license/
+
 
 
 
