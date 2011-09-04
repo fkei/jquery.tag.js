@@ -53,8 +53,7 @@
          * script:
          * $("#hoge")
          *     .tag("a",
-         *         {"href": "http://example.com/", id: "home", class: "foo bar"},
-         *         true)
+         *         {"href": "http://example.com/", id: "home", class: "foo bar"})
          *         .tag("span").text("goto home").gat()
          *     .gat()
          * ;
@@ -88,8 +87,7 @@
          * script:
          * $("#hoge")
          *     .tag("a",
-         *         {"href": "http://example.com/", id: "home", class: "foo bar"},
-         *         true)
+         *         {"href": "http://example.com/", id: "home", class: "foo bar"})
          *     .gat().next(function() {
          *         alert("ALERT");
          *     })
