@@ -38,7 +38,7 @@ before:
 script:
 
     $("#hoge")
-        .tag("a", {"href": "http://example.com/", id: "home", class: "foo bar"})
+        .tagset("a", {"href": "http://example.com/", id: "home", class: "foo bar"})
             .tag("span").text("goto home").gat()
         .gat()
     ;
